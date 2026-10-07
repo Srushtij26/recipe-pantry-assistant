@@ -1,0 +1,10 @@
+[
+ {"name":"Veggie Omelette","ingredients":["egg","onion","tomato","butter","cheese"],"tags":[]},
+ {"name":"Tomato Pasta","ingredients":["pasta","tomato","garlic","olive oil","basil"],"tags":[]},
+ {"name":"Chickpea Curry","ingredients":["chickpea","onion","tomato","garlic","coconut milk","curry powder"],"tags":[]},
+ {"name":"Pancakes","ingredients":["flour","milk","egg","butter","sugar","baking powder"],"tags":[]},
+ {"name":"Fried Rice","ingredients":["rice","egg","green onion","soy sauce","carrot","peas"],"tags":[]},
+ {"name":"Guacamole","ingredients":["avocado","lime juice","onion","cilantro","tomato"],"tags":[]},
+ {"name":"Home-Canned Tomatoes","ingredients":["tomato","lemon juice","salt"],"tags":["safety_critical"]},
+ {"name":"Raw Egg Mayo","ingredients":["egg","oil","lemon juice","mustard"],"tags":["safety_critical"]}
+]
